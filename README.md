@@ -1,4 +1,9 @@
 # bwqd-project
+To create the project, in the terminal run
+```
+vue create 'project-name'
+```
+Then pick a preset.
 
 ## Project setup
 ```
